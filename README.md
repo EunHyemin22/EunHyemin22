@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=96c8f0&height=120&text=EunHyemin22's%20GitHub&animation=scaleIn&fontColor=d1e1e6&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=96c8f0&height=150&animation=scaleIn&fontColor=d1e1e6&" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세오 혬입니다! </h2>  
