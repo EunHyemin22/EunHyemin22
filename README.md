@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=shark&color=96c8f0&height=150&animation=scaleIn&fontColor=d1e1e6&" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세오 혬입니다! </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세오 혬이에오! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저의 깃허브에 오신걸 환영합니다~ </div> 
     </div>
     <div style="text-align: left;">
