@@ -23,6 +23,31 @@
 
 <br>
 
+<h2>🎓 Education &amp; Activities</h2>
+<br>
+
+<h3>📚 Education</h3>
+<ul>
+  <li><strong>홍익대학교</strong> · 회계학 전공 · 컴퓨터공학 복수전공</li>
+  <li><strong>삼성청년SW·AI아카데미(SSAFY) 14기</strong> · Java 과정</li>
+</ul>
+
+<br>
+
+<h3>💼 Internship</h3>
+<ul>
+  <li>
+    <strong>한국은행</strong> · 2026.06.25 ~ <br>
+    데이터 거버넌스 체계 운영 지원 및 데이터 표준·품질 관리
+  </li>
+  <li>
+    <strong>정보통신기획평가원</strong> · 2023.06.26 ~ 2023.12.23<br>
+    ICT R&amp;D 기획·평가, 경영 지원 및 정책 기획·관리
+  </li>
+</ul>
+
+<br>
+
 <h2>🏆 Awards</h2>
 <br>
 
