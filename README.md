@@ -12,6 +12,17 @@
 
 <br>
 
+<p>
+  <a href="https://solved.ac/dwiw22/">
+    <img
+      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dwiw22"
+      alt="dwiw22의 solved.ac 프로필 배지"
+    />
+  </a>
+</p>
+
+<br>
+
 <h2>🏆 Awards</h2>
 <br>
 
