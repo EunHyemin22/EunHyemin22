@@ -28,7 +28,7 @@
 
 <h3>📚 Education</h3>
 <ul>
-  <li><strong>홍익대학교</strong> · 회계학 전공 · 컴퓨터공학 복수전공</li>
+  <li> 회계학 전공 · 컴퓨터공학 복수전공</li>
   <li><strong>삼성청년SW·AI아카데미(SSAFY) 14기</strong> · Java 과정</li>
 </ul>
 
