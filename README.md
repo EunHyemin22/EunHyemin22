@@ -118,6 +118,27 @@
 <h2>📂 Projects</h2>
 <br>
 
+<h3>💸 <a href="https://github.com/EunHyemin22/JalSanDa_MinBong">JalSanDa (잘산다)</a></h3>
+
+<p>
+  가계부에 기록한 지출 내역을 게시글로 공유하는 소셜 가계부 웹 서비스
+</p>
+
+<p>
+  <strong>기간</strong> 2025.11.14 ~ 2025.12.26 |
+  <strong>인원</strong> 2명 |
+  <strong>역할</strong> 풀스택
+</p>
+
+<h4>담당 역할</h4>
+
+<ul>
+  <li>가계부 이미지 등록 및 소비 공유 게시글 CRUD 구현</li>
+  <li>프론트엔드 화면 디자인</li>
+</ul>
+
+<br>
+
 <h3>📍 ASAP</h3>
 
 <p>
